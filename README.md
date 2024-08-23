@@ -1,5 +1,13 @@
 # IBM Applied Data Science Capstone
 This Capstone is the professional certification project for [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) specialization, and summarizesthe project materials learned during this specialization.
+
+## Final Presentation
+Please refer to the final presentation document for the overview of the task and results. The slides will guide the viewer through the different stages of the project and links are provided to the apporpriate coding tasks.
+
+[<img src="https://github.com/mg380/IBM-Applied-Data-Science-Capstone/blob/main/figs/presentation%20first%20page.png" width="window.innerWidth" height="auto">](https://github.com/mg380/IBM-Applied-Data-Science-Capstone/blob/main/ds-capstone-template-coursera.pdf)
+
+
+
 ## :page_facing_up: Project Background
 SpaceX is the most successful company of the commercial space 
 age, making space travel affordable. The company advertises Falcon 
